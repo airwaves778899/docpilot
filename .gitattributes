@@ -1,0 +1,3 @@
+﻿scripts/security-scan.ps1 linguist-vendored
+install.ps1 linguist-vendored
+install.sh linguist-vendored
